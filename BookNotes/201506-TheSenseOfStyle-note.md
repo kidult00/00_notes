@@ -1,17 +1,18 @@
 # The sense of style
 
-transitive verb 及物动词
-
 > “Lacking the tools to analyze language, they often struggled when turning their intuitions into advice, vainly appealing to the writer’s “ear.” <sup>[1]</sup>
 
+很多优秀作家虽然有非常好的直觉,但是难以解释什么是好的作品,也难向他人传授写作的秘诀.
 
 作为心理语言学家(psycholinguist),平克探讨:好的文章背后的规律是什么.21世纪的写作指南.
 
-“Style still matters, for at least three reasons. 
+风格依然很重要,原因有三: 
 
-First, it ensures that writers will get their messages across, sparing readers from squandering their precious moments on earth deciphering opaque prose. Second, style earns turst.”
+- First, it ensures that writers will get their messages across, sparing readers from squandering their precious moments on earth deciphering opaque prose. 
+- Second, style earns turst.”
+- Style, not least, adds beauty to the world.
 
-“Style, not least, adds beauty to the world.”
+## Chapter 1 Good Writing
 
 
 
