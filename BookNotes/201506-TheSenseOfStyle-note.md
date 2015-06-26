@@ -14,6 +14,23 @@
 
 ## Chapter 1 Good Writing
 
+阅读好文章,是写出好文章的开始.
+
+Good writing starts strong. Not with a cliché (“Since the dawn of time”), not with a banality (“Recently, scholars have been increasingly concerned with the question of …”)but with a contentful observation that provokes curiosity.
+
+Good writing ends strong.
+
+变换文法,努力使用具象的,不俗的描述方法,激发读者的想象、思考和共鸣.
+
+- an insistence on fresh wording and concrete imagery over familiar verbiage and abstract summary; 
+- an attention to the readers’ vantage point and the target of their gaze; 
+- the judicious placement of an uncommon word or idiom against a backdrop of simple nouns and verbs; 
+- the use of parallel syntax; 
+- the occasional planned surprise; 
+- the presentation of a telling detail that obviates an explicit pronouncement; 
+- the use of meter and sound that resonate with the meaning and mood.
+
+They write as if they have something important to show.
 
 
 
