@@ -53,3 +53,58 @@ survival of the individual  生存策略：
 	不要：put things into perspective, wake-up calls, instill courage, willpower, 总之不要打鸡血
 
 	要：理解和陪伴，如果他坐下你也坐下，躺下你也躺下；define small objectives together； guide
+	
+## Section4 : Our Paleo-Limbic Brain
+边缘脑负责个人在群体中如何感觉和行动：confidence 自信，trust 信任
+
+response heavily to our body language
+
+### confidence
+与内向外向不同
+
+dominance
+
+- level1:flattery and seduction
+- level2:manipulation of feelings
+- level3:mockery
+- level4:intimidation
+- level5:sadism, cruelty
+
+assertiveness
+
+submissive
+
+- level1:perfectionism, credulity
+- level2:servility
+- level3:superstition, fear of sanction
+- level4:panic attacks, guilt
+- level5:auto-mutilation, suicide
+
+### trust
+
+marginality 边缘性
+
+- level1:uneasiness at sharing
+- level2:loss of contact
+- level3:loss of connection
+- level4:sense of exclusion
+- level5:conspiracy
+
+assertiveness
+
+axiality 同轴度
+
+- level1:ease at sharing
+- level2:hidden meanings
+- level3:communicating without words
+- level4:communicating with things
+- level5:connection to the universe
+
+在童年和青少年时期，authority 过多，会倾向于 submissive，authority 过少，会倾向于 dominance。
+
+### RGPM：Relational group positioning management
+为什么我们有时候自信，有时候感到缺乏安全感？
+
+不要： become paleo, be thrown balance, reward behavior, play nice guy, discuss the content, convince about right or wrong, expect lasting break through
+
+要：relax, stay neutral, talk about rules
