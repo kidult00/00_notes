@@ -55,7 +55,9 @@ survival of the individual  生存策略：
 	要：理解和陪伴，如果他坐下你也坐下，躺下你也躺下；define small objectives together； guide
 	
 ## Section4 : Our Paleo-Limbic Brain
-边缘脑负责个人在群体中如何感觉和行动：confidence 自信，trust 信任
+边缘脑（古哺乳动物脑）负责个人在群体中如何感觉和行动：confidence 自信，trust 信任
+
+The Paleo-limbic brain maximize the survival of the group, through the regulation of internal confilcts
 
 response heavily to our body language
 
@@ -105,6 +107,67 @@ axiality 同轴度
 ### RGPM：Relational group positioning management
 为什么我们有时候自信，有时候感到缺乏安全感？
 
-不要： become paleo, be thrown balance, reward behavior, play nice guy, discuss the content, convince about right or wrong, expect lasting break through
+不要： 
+- become paleo
+- be thrown balance
+- reward behavior
+- play nice guy
+- discuss the content 
+- convince about right or wrong 
+- expect lasting break through
 
-要：relax, stay neutral, talk about rules
+要：
+- relax 
+- stay neutral 
+- talk about rules 
+- stay focussed 
+- use silence
+
+对 dominance group: 
+don't
+- overpower;
+- be seduced or impressed
+- be submissive
+- enter fight stress mode
+do
+- stay neutral and calm
+- be direct
+- be factual
+- use silence
+- refer to rules 
+
+对 submissive group:
+don't
+- show dominance
+- dramatize
+- de-dramatize
+- try to convince
+
+do
+- acknowledge feelings
+- stay factual
+- follow rules
+
+对 axiality group：
+- no more mr nice guy
+- refer to rules
+- refer to values
+- stay neutral
+- use silence
+- do synchronize your body language
+
+对marginality group：
+- don't intrude
+- stay neutral
+- open questions
+- refer to rules
+
+## Section 5:Our Neo-Limbic Brain - Personalities and Motivations
+新皮质（新哺乳动物脑）与动机、情绪、记忆 consciousness相关。
+
+how to free us from others expectations
+
+primary motivations:
+- fixed for life
+- give us energy
+- no need for results(唱歌难听但仍是麦霸)
