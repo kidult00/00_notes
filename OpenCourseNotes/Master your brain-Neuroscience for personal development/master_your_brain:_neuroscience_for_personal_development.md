@@ -168,6 +168,7 @@ do
 how to free us from others expectations
 
 primary motivations:
-- fixed for life
-- give us energy
+- fixed for life （很少改变）
+- give us energy （驱动力）
 - no need for results(唱歌难听但仍是麦霸)
+
