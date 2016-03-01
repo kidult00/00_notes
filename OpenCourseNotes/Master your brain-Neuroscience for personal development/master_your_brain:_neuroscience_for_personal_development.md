@@ -1,10 +1,13 @@
 # Master your brain: Neuroscience for personal development
 
+
 ## Section 1: Introduction to the Course
 
 NBA: Neurocognitive and Behavioral Approach
 
 大脑不同部位对意识和行为的影响，就像汽车驾驶一样，车里有4个人，但每次只有一个人掌握方向盘，其他人只能对他产生影响，而不能直接驾驶车辆。
+
+![](http://7xjpra.com1.z0.glb.clouddn.com/ourbraintranslate.png)
 
 ## Section: 2 - Our Reptilian Brain
 
@@ -163,12 +166,117 @@ do
 - refer to rules
 
 ## Section 5:Our Neo-Limbic Brain - Personalities and Motivations
+The Neo-Limbic Brain is home to our memory and consciousness, as
+well as our motivations.
 新皮质（新哺乳动物脑）与动机、情绪、记忆 consciousness相关。
 
 how to free us from others expectations
 
+### primary motivations
+
 primary motivations:
+
 - fixed for life （很少改变）
 - give us energy （驱动力）
-- no need for results(唱歌难听但仍是麦霸)
+- no need for results (唱歌难听但仍是麦霸)
 
+更好地认识自己：什么能够给你快乐和能量？
+
+- easy or challenge?
+- action or reflection?
+- together or alone?
+- introvert or extrovert?
+
+8种人格类型：
+
+- philosopher or succesful stand-by
+- the innovatior or impeded stand-by
+- the animator or succesful flight
+- the administrator or impeded flight
+- the strategist or succesful fight
+- the competitor or impeded fight
+- the participator or succesful freeze
+- the supportive or impeded freeze
+
+### secondary motivations
+
+Secondary personalities 由 primary motivations 和社会文化环境共同影响塑造:
+
+- can change
+- cost us energy
+- need for results
+
+This leads to three types of motivations to do sth: ** joy + satisfaction + relief **
+
+### loss of motivation
+次要人格压抑首要人格。尤其在3-6岁时，天性受压抑的话，容易失去主要动机。
+
+内心 resistance 也可以帮助识别首要动机。你不能忍受什么？
+
+首要人格聚焦于 good side of things，次要人格会排斥内心抗拒的东西。
+
+![](http://7xjpra.com1.z0.glb.clouddn.com/intolerancePractice.jpeg)
+
+写下自己难以接受的类型，并且经常提醒自己，慢慢学会接受。
+
+## Section 6: Our Neo-Limbic Brain - Obsessions
+
+Third layer of motivation: Hyperinvestment 过度投资 or obsession 痴迷/强迫观念
+
+passion become obsession, 如何识别？
+
+- never enough, no satisfaction  不满足，想要更多
+- excessive emotional reactions 满脑子都是
+- energy draining 精疲力竭
+
+Hyperinvestments are born from a avoidance/compensation mechanism
+
+我们渴望 X(Love, appraisal, attention, esteem...) 但是用 Y 来替代（anything ,really....），结果是欲求不满
+
+compensating 补偿
+
+Actif: change, novelty, order, perfectionism, mastery, efficiency, creativity, cleaning, hygiene, winning, control
+
+Passif: voyeurism, beauty, helping others, approval, esteem, intimacy, sex, being together, sharing 
+
+![](http://7xjpra.com1.z0.glb.clouddn.com/recoverurfreedom.jpeg)
+
+manage others: don't try to change directly. 如果是亲近的人，认同它但是说明这会对你们关系造成影响。
+
+## Section 7：Our Pre-Frontal Brain
+
+The Prefrontal Brain(前额叶) deals with adaptation to change, and complex
+situationsprefrontal. switch mental modes
+
+Whenever the automatic mode doesn’t hand over control, the prefrontal
+brain sends a signal to the reptilian to activate the stress response. This way stress becomes an indicator for the acurate use of our different
+mental modes
+
+The Automatic mode vs the Adaptive mode
+
+- routine vs curiosity
+- rigidity vs adaptation
+- simplification vs nuance(细微差别)
+- certainty vs relativity
+- empirism（经验主义） vs reflection（反思）
+- social image vs personal opinion
+
+解药1： multiple point of view
+
+1. 写下会让你焦虑的情境
+2. 想想别人会怎么看待（你爷爷，你朋友，医生，律师，警察，外星人，苏格拉底，教皇，哈利波特，阿里，列侬，总统……）
+
+解药2： means-demands pyramid
+
+![](http://7xjpra.com1.z0.glb.clouddn.com/means-demands.jpeg)
+
+1. 写下焦虑情境
+2. 个人期望
+3. 实际资源
+4. 增加资源
+5. 降低期望
+6. 找到新的平衡
+
+For whom this is important?
+
+The best way to trigger the prefrontal brain is to ask open question, surprise them and make them curious
