@@ -25,4 +25,6 @@
 “How do we implement these rules in Processing?”
 
 An object in Processing is an entity that has both data and functionality.
-A class is the template for building actual instances of objects. Think of a class as the cookie cutter; the objects are the cookies themselves.
+A class is the template for building actual instances of objects. Think of a class as the cookie cutter; the objects are the cookies themselves.面向对象编程
+对象：属性，方法
+三国杀：武将，技能
