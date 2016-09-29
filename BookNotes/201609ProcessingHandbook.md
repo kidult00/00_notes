@@ -46,3 +46,17 @@ expressions (like a phrase 表达式，有 value), statements（多个表达式�
 Blend mode: blend, add, subtract, darkest, lightest, difference, exclusion, multiply, screen, replace.
 
 ![](http://7xjpra.com1.z0.glb.clouddn.com/ProcessingBlending.jpg)
+
+### Interactivity
+
+Mouse and keyboard
+
+### Repeat
+
+### Synthesis
+
+### Text
+
+### Typography
+
+### Image
