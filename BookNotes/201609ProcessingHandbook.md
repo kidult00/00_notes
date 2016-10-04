@@ -60,3 +60,58 @@ Mouse and keyboard
 ### Typography
 
 ### Image
+display ``PImage img;``
+
+filter: THRESHOLD, GRAY,INVERT, POSTERIZE, BLUR, OPAQUE, ERODE, DILATE
+
+mask() method of  PImage sets the transparency values of an image based on the contents of another image.
+
+### Transform
+pushMatrix() 记录现在 transformations 的状态； popMatrix() 恢复
+
+The pushMatrix() function is used to add a new coordinate matrix to the stack, and popMatrix() is used to remove one from the stack.
+
+### Vertices
+
+### 3D Drawing
+
+![](http://7xjpra.com1.z0.glb.clouddn.com/3D-coordination.jpg)
+
+camera
+
+Processing offers an explicit mapping of the camera analogy through ist function, which is derived from OpenGL.
+
+Lights, Materials
+
+### Shapes
+display SVG
+
+SVG format specifies 2D graphics. SVG is an open standard that stores data in XML format.
+
+### Debugging
+
+- scrutinize the newest code
+- check related code
+- display output
+- isolate the problem
+- learn from previous bugs
+- take a break
+
+### Calculate
+![](http://7xjpra.com1.z0.glb.clouddn.com/ExponentialEquations.jpg)
+Exponential Equations
+
+Easing, also called interpolation, is a technique for moving between two numbers with nonlinear increments.
+
+![](http://7xjpra.com1.z0.glb.clouddn.com/Degrees&Radians.jpg)
+
+### Random
+
+### Motion
+mechanical motion
+
+organic motion
+
+kinctic tpyography
+
+### Time
