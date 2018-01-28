@@ -58,4 +58,14 @@ Generative art is:
 
 > If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is. --- John von Neumann, speaking in 1947
 
-### Ch3. The Wrong Way to Draw a Line
+## Part III Complexity
+
+### Ch6. Emergence
+
+a simple rule set at a low level creates organized complexity on a higher level, is called emergence
+
+This effect has been modeled in computing, most famously by Craig Reynolds in his Boids algorithm, first published in 1987. Reynolds discovered that to produce a realistic flocking simulation in code, he needed only three rules:
+
+* Separation—Steer to avoid your immediate neighbors.
+* Alignment—Steer to align with the average heading of your immediate neighbors. 
+* Cohesion—Steer toward the average position of your immediate neighbors.
