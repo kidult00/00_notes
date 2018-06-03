@@ -1,5 +1,7 @@
 # Audio Engineering 101 - A Beginner's Guide to Music Production
 
+## Ch1 What is Sound
+
 Sound is a vibration or a series of vibrations that move through the air.
 
 ### Seven Characteristics of Sound
@@ -78,3 +80,63 @@ ADSR
 
 ### Noise
 S/N signal-to-noise ratio
+
+## Ch2 How to Listen
+
+[Fletcher–Munson curves](https://en.wikipedia.org/wiki/Fletcher%E2%80%93Munson_curves)
+
+人耳对 3.5 KHz 左右的声音最敏感，如吉他声。对 1~5 KHz 范围声音敏感，那也是人声的范围。
+
+90 dB 声音在不同频率段都较平缓。
+
+![Fletcher–Munson curves](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lindos4.svg/400px-Lindos4.svg.png)
+
+Around 95 dB, the ear's natural defense is to limit the volume of the sound.
+
+To ensure the mix is not bass heavy or bass light, monitor sound between 80 and 85 dB.
+
+Sound can be divided into three successively occurring categories that arrive at the ears in the following order: direct path, early reflections, and reverberation 混响.
+
+### Ear Training Tools and Techniques
+
+#### 3D Ball
+
+[3D Reference Ball (Video 1) - YouTube](https://www.youtube.com/watch?v=nOCfaNOABUo)
+
+- front and back: controlled by volume, EQ, and reverb
+- left and right: controlled by panning
+- top and bottom: controlled by EQ
+
+#### Frequency Pyramid
+
+The pyramid would be built with low frequencies on the bottom, mid frequencies in the middle, and high frequencies on the top. If the pyramid is lacking a particular frequency range, the mix may sound unbalanced or incomplete.
+
+#### Selevtive Hearing
+
+- practice focusing on an individual instrument for the entire song
+- try to follow every note or beat
+- repeat this for each instrument or sound in the mix
+- listen to like instruments, exp bass and kick drum or two electric guitars. Examine their ralationship in the mix
+- focus on groups of instruments, such as strings, vocals, and rhythm tracks. What are the overall relationships in the mix?
+
+#### Analyzing Music Recordings
+
+1. listen to a song and indentify all the instruments or sounds in the mix
+2. where are all the sound s placed in the 3D reference ball? Which sounds appear in the center? Which sounds appear on the sides? Do any instruments have a sterreo spread?
+3. how do the vocals sit in the mix? Are they in the front of the ball or do they belnd more with the music?
+4. what are the tones of the individual sounds? Are some sound bright while others are dark or dull? What is the overall tone of the recording?
+5. can you hear the environment around each sound? Do all the instruments appear to be in the same space? What does the overall environment sound like?
+6. Is it a "wet" mix or a  "dry" mix? A wet mix weill have a lot of effects, such as reverb, delay, or echo, and is often used in pop, psychedelic 迷幻, surf, and reggae music. A dry mix will be more organic with little or no effects apparent in the mix. Dry mixes are more common to folk, blues, jazz, classical, adn bluegrass music.
+7. Finally, and most importantly, how does the recording make you feel?
+
+It is always good to establish some type of reference point between two different instruments or mixes.
+
+## Ch 3 EQ Points of Interest
+
+Equalization or EQ, can be used to describe the action of equalizing a sound, a control to change the tone, or a reference to the tone of a sound.
+
+Low-cut or High-pass Filters
+
+Subtractive equalization is a technique used to create clearer, more defined mixes.
+
+Ultimatedly, mixing is about "crowd control".

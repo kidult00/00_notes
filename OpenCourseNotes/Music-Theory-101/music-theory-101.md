@@ -25,6 +25,7 @@ measure|小节||
 tempo|节奏|The speed of the beat|
 rhythm|节奏/韵律|Layered on the surface of the meter, and when combined with pitch, can form melody.|![](https://image.slidesharecdn.com/fundamental-best-elementsofmusic-090427050736-phpapp02/95/fundamental-elements-of-music-3-728.jpg?cb=1240809195)
 melody|旋律|在一种时间关系中的音高移动|
+timbre|音色
 
 
 
